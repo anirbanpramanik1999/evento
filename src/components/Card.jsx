@@ -6,7 +6,7 @@ export default function card() {
       {/* mt-8 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 */}
       <div
         id="service"
-        className="md:grid-cols-2 lg:grid-cols-4  sm:flex justify-evenly  mt-1"
+        className="mt-8 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 overflow-auto"
       >
         <div className="my-3 w-[300px] rounded-md border mx-auto shadow-lg items-center hover:bg-indigo-400 hover:text-white ">
           <img

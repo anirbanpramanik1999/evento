@@ -12,17 +12,17 @@ export default function Organizer() {
     
   <div className="mx-auto max-w-3xl md:text-center">
     <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl lg:leading-tight">
-      People who made it successful
+    Experience the Unforgettable
     </h2>
-    <p className="mx-auto mt-4 max-w-2xl text-gray-600 md:text-xl">
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam reiciendis
-      a vel error explicabo voluptatum nihil possimus veritatis eos culpa.
+    <p className="mx-auto mt-4 max-w-2xl text-gray-600 md:text-xl text-lg">
+    # Join us at the Spectacular Summer Festival - Fun for Everyone!
+
     </p>
   </div>
 
 
 
-  <div className="mt-8 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4">
+  <div className="mt-8 grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 overflow-auto">
     <div className="mx-auto w-[300px] rounded-md border shadow-2xl hover:bg-indigo-400">
       <img
         src="https://cdn.logojoy.com/wp-content/uploads/2018/05/30163537/7_big7.png"
@@ -243,11 +243,11 @@ export default function Organizer() {
         className="h-[200px] w-full rounded-t-md object-cover"
       />
       <div className="p-4">
-        <h1 className="text-lg font-semibold">Jenifer Lopez</h1>
-        <h6 className="mt-3 font-medium">Founder and CEO, DevUI</h6>
-        <p className="mt-3 text-sm text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi,
-          debitis?
+        <h1 className="text-lg font-semibold">Star Entertainment</h1>
+        <h6 className="mt-3 font-medium">D.A.E Convention Center</h6>
+        <h6 className="mt-3 font-normal">Mumbai,Maharashtra</h6>
+        <p className="mt-3 text-sm text-black">
+        Unleash Your Imagination: Tilly Event 2024 - Where Creativity Meets Reality!
         </p>
         <div className="mt-4 flex flex-wrap">
           <div className="w-auto p-1.5">
