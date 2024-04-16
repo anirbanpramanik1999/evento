@@ -19,7 +19,7 @@ export default function card() {
               Holi
             </h1>
             <div className="w-full text-center  flex-none mt-2 order-1 text-xl font-bold text-violet-800 hover:text-white">
-              $59.00
+              ₹3499
             </div>
             <p className="mt-3 text-sm text-gray-600 hover:text-white">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -56,7 +56,7 @@ export default function card() {
               Diwali
             </h1>
             <div className="w-full text-center  flex-none mt-2 order-1 text-xl font-bold text-violet-800 hover:text-white">
-              $29.00
+               ₹2999
             </div>
             <p className="mt-3 text-sm text-gray-600 hover:text-white">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -94,7 +94,7 @@ export default function card() {
             </h1>
 
             <div className="w-full text-center  flex-none mt-2 order-1 text-xl font-bold text-violet-800 hover:text-white">
-              $39.00
+               ₹4999 
             </div>
 
             <p className="mt-3 text-sm text-gray-900 hover:text-white">
@@ -132,7 +132,7 @@ export default function card() {
               Eid
             </h1>
             <div className="w-full text-center  flex-none mt-2 order-1 text-xl font-bold text-violet-800 hover:text-white">
-              $49.00
+              ₹3999
             </div>
             <p className="mt-3 text-sm text-gray-600 hover:text-white">
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
