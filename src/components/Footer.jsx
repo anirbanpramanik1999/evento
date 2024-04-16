@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <div className="mt-8 shadow-2xl  ">
+    <div className="mt-8 shadow-2xl  hover:bg-indigo-400 ">
       <footer className="w-full shadow-2xl ">
         <div className="mx-auto flex max-w-6xl flex-col items-start space-x-8 md:flex-row">
           <div className="w-full px-4 md:w-1/2 lg:px-0">
@@ -41,7 +41,7 @@ export default function Footer() {
           </div>
           <div className="mt-8 grid grid-cols-2 gap-6 md:mt-0 lg:w-3/4 lg:grid-cols-3">
             <div className="mb-8 lg:mb-0">
-              <p className="mb-6 text-lg font-semibold text-gray-700 ">
+              <p className="mb-6 text-lg font-semibold text-gray-800 hover:text-white">
                 Evento
               </p>
               <ul className="flex flex-col space-y-4 text-[14px] font-medium   hover:text-white">
@@ -53,7 +53,7 @@ export default function Footer() {
               </ul>
             </div>
             <div className="mb-8 lg:mb-0">
-              <p className="mb-6 text-lg font-semibold text-gray-700 ">
+              <p className="mb-6 text-lg font-semibold text-gray-800 hover:text-white">
                 Connect With Us
               </p>
               <ul className="flex flex-col space-y-4 text-[14px] font-medium   hover:text-white">
@@ -65,7 +65,7 @@ export default function Footer() {
               </ul>
             </div>
             <div className="mb-8 lg:mb-0">
-              <p className="mb-6 text-lg font-semibold text-gray-700 ">
+              <p className="mb-6 text-lg font-semibold text-gray-800 hover:text-white ">
                 Useful Link
               </p>
               <ul className="flex flex-col space-y-4 text-[14px] font-medium   hover:text-white">
